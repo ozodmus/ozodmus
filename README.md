@@ -22,7 +22,6 @@ When I'm not coding, I'm playing soccer, training for a triathlon, or pretending
 
 ### 📫 Get in touch
 - [LinkedIn](https://www.linkedin.com/in/ozodmusaev/)
-- Email: ozod.mus@gmail.com
 
 <!--
 **ozodmus/ozodmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
