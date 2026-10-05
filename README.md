@@ -1,4 +1,4 @@
-# Hi, I'm Ozod
+# Zod
 
 I'm a Computer Engineering new grad from the **University of Toronto**, specializing in **C/C++** and **computer hardware**.
 
