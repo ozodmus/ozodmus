@@ -18,5 +18,5 @@ I'm curious about how the digital world works, from the transistor up, and I'm a
 - **[Verilog Jigsaw Puzzle Game](link)**: a puzzle game implemented in hardware on an FPGA
 -->
 ### ⚽ Outside of Code
-When I'm not coding, I'm playing soccer, training for a triathlon [[Strava](https://www.strava.com/athletes/138280565)], or pretending to be productive by playing chess ♟️
+When I'm not coding, I'm playing soccer, training for a triathlon, or pretending to be productive by playing chess ♟️
 
