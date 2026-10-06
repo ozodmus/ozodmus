@@ -1,6 +1,6 @@
 # Hey, I'm Ozod
 
-I'm a Computer Engineering new grad from the **University of Toronto**, specializing in **C/C++** and **computer hardware**.
+I'm a Computer Engineering grad from the **University of Toronto**, specializing in **C/C++** and **computer hardware**.
 
 I'm curious about how the digital world works, from the transistor up, and I'm always eager to learn about new and innovative technologies. I believe there's always room to improve and grow my skills, and I enjoy contributing to meaningful projects that help people.
 
